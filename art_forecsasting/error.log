@@ -1,0 +1,75 @@
+ERROR 2021-10-04 11:58:40,737 [<ipython-input-2-2f63a9160989>:<module>:9]
+There's been a mistake with the process.
+
+CRITICAL 2021-10-04 11:58:40,741 [<ipython-input-2-2f63a9160989>:<module>:10]
+There is something terribly wrong and process may terminate.
+
+ERROR 2021-10-04 12:02:57,629 [<ipython-input-3-f9aeadd8ea24>:<module>:4]
+There's been a mistake with the process.
+
+CRITICAL 2021-10-04 12:02:57,632 [<ipython-input-3-f9aeadd8ea24>:<module>:5]
+There is something terribly wrong and process may terminate.
+
+ERROR 2021-10-04 12:11:05,907 [<ipython-input-2-2f63a9160989>:<module>:9]
+There's been a mistake with the process.
+
+CRITICAL 2021-10-04 12:11:05,909 [<ipython-input-2-2f63a9160989>:<module>:10]
+There is something terribly wrong and process may terminate.
+
+ERROR 2021-10-06 14:06:18,301 [transform_predict.py:execute:22]
+Error occured in pivot/lag transform section. Exiting....
+
+ERROR 2021-10-06 14:06:18,304 [<ipython-input-1-4bcf107ff5bf>:<module>:23]
+Exception occured in submodules: Error occured in pivot/lag transform section: combineNpivot_hourly() missing 1 required positional argument: 'mydb'
+
+ERROR 2021-10-06 14:10:04,882 [<ipython-input-1-4bcf107ff5bf>:<module>:23]
+Exception occured in submodules: execute() takes 2 positional arguments but 3 were given
+
+ERROR 2021-10-06 14:11:49,758 [transform_predict.py:execute:22]
+Error occured in pivot/lag transform section. Exiting....
+
+ERROR 2021-10-06 14:11:49,762 [<ipython-input-1-4bcf107ff5bf>:<module>:23]
+Exception occured in submodules: Error occured in pivot/lag transform section: 'float' object has no attribute 'days'
+
+ERROR 2021-10-06 14:24:13,273 [transform_predict.py:execute:22]
+Error occured in pivot/lag transform section. Exiting....
+
+ERROR 2021-10-06 14:24:13,277 [<ipython-input-1-4bcf107ff5bf>:<module>:23]
+Exception occured in submodules: Error occured in pivot/lag transform section: No new data to predict. Exiting....
+
+ERROR 2021-10-06 14:48:23,688 [dashboard_refresh.py:execute:14]
+Error occured in fetching ART table for bullet chart. Exiting....
+
+ERROR 2021-10-06 14:48:23,692 [<ipython-input-1-5a25c8f803d5>:<module>:23]
+Exception occured in submodules: Error occured in fetching ART table for bullet chart: can only concatenate str (not "datetime.timedelta") to str
+
+ERROR 2021-10-06 15:12:38,732 [transform_predict.py:execute:22]
+Error occured in pivot/lag transform section. Exiting....
+
+ERROR 2021-10-06 15:12:38,735 [<ipython-input-1-4bcf107ff5bf>:<module>:23]
+Exception occured in submodules: Error occured in pivot/lag transform section: No new data to predict. Exiting....
+
+ERROR 2021-10-07 06:38:35,266 [<ipython-input-2-22d1015cea72>:<module>:23]
+Exception occured in submodules: name 'fetch_hourly_data' is not defined
+
+ERROR 2021-10-07 07:06:09,454 [<ipython-input-1-750b637010c7>:<module>:23]
+Exception occured in submodules: ('ART_SN00', 'HOUR')
+
+ERROR 2021-10-09 21:05:38,166 [transform_predict.py:execute:22]
+Error occured in pivot/lag transform section. Exiting....
+
+ERROR 2021-10-09 21:05:38,171 [<ipython-input-1-ef9d9fa353aa>:<module>:15]
+Exception occured in submodules: Error occured in pivot/lag transform section: No new data to predict. Exiting....
+
+ERROR 2021-10-13 21:05:39,595 [transform_predict.py:execute:22]
+Error occured in pivot/lag transform section. Exiting....
+
+ERROR 2021-10-13 21:05:39,599 [<ipython-input-1-ef9d9fa353aa>:<module>:15]
+Exception occured in submodules: Error occured in pivot/lag transform section: No new data to predict. Exiting....
+
+ERROR 2021-10-13 22:05:59,363 [transform_predict.py:execute:22]
+Error occured in pivot/lag transform section. Exiting....
+
+ERROR 2021-10-13 22:05:59,369 [<ipython-input-1-ef9d9fa353aa>:<module>:15]
+Exception occured in submodules: Error occured in pivot/lag transform section: No new data to predict. Exiting....
+
