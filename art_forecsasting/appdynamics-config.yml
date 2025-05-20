@@ -1,0 +1,9 @@
+db:
+    host: "YOUR-HOST"
+    user: "USER NAME"
+    password: "PASSWORD"
+    database: "DB"
+client_creds:
+    client_id: "CLIENT-ID"
+    client_secret: "CLIENT SECRET"
+    geturl: "URL"
