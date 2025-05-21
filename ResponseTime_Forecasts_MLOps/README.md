@@ -2,9 +2,11 @@
 
 ## Project Overview
 
-There is a main server which is connected to 7 different sub-servers. This main server recieves the load for these sub-servers. The aim of this project is forecast future 6 hours of Network's Average Response time (ART) of main server.
+This is the time series forecasting exercise. This has been inspired by a real use-case that I had done few years ago for one client. This project will show how to include MLOps in pure pythonic way.
 
-This ML pipeline is designed to run every hour and forecast for next 6 hours. It uses XGBoost model with hyperparameters tuned.It runs 6 different model every hour.
+There is a main server which is connected to 7 different sub-servers. This main server recieves the load for these sub-servers. The aim of this project is forecast next 6 hours of Network's Average Response time (ART) of main server.
+
+This ML pipeline is designed to run every hour and forecast for next 6 hours. It uses XGBoost model with hyperparameters tuned.It runs 6 different models every hour.
 
 All data is stored in MariaDB, which can be used to create dashboards for visualization purpose.
 
